@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+
+}
+
+h1,
+h2,h3 {
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+
+} 
+
+body{
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+.left{
+    color: yellowgreen;
+    text-align: left;
+}
+.center{
+    color: brown;
+    text-align: center;
+}
+.right{
+    color: chocolate;
+    text-align: right;
+}
+.divider{
+    background-color: azure;
+    padding: 30px;
+    margin: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
+    color: aliceblue;
+}
+img{
+    width: 500px;
+   /* position: absolute;
+   z-index:-1;*/
+}
